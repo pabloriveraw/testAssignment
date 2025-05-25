@@ -145,13 +145,13 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-* [1test EDA](https://colab.research.google.com/drive/1vnNBN9EiosTk7fG51dcV_1_lf6RpGEXn?usp=sharing)
+* [1test EDA](https://github.com/pabloriveraw/testAssignment/blob/main/1test%20EDA%20-%20Required%20Capstone%20Assignment%2020.1%20Pablo%20Rivera.ipynb)
 
-* [2test Charts](https://colab.research.google.com/drive/1vnNBN9EiosTk7fG51dcV_1_lf6RpGEXn?usp=sharing)
+* [2test Charts](https://github.com/pabloriveraw/testAssignment/blob/main/2test%20Charts%20%26%20Correlations%20Required%20Capstone%20Assignment%2020.1%20Pablo%20Rivera.ipynb)
 
-* [3test TRAINING](https://colab.research.google.com/drive/1FT_11e-yrOS4Wew5mI-ScbHsmCWWcMye?usp=sharing)
+* [3test TRAINING](https://github.com/pabloriveraw/testAssignment/blob/main/3test%20TRAINING%20%26%20Results%20-%20Required%20Capstone%20Assignment%2020.1%20Pablo%20Rivera.ipynb)
 
-* [4test Bias Correction and Final Improvement](https://colab.research.google.com/drive/1aBNldiWgSg9CZq33D4DfDRX2WE9skP3N?usp=sharing) 
+* [4test Bias Correction and Final Improvement](https://github.com/pabloriveraw/testAssignment/blob/main/4%20Bias%20Correction%20and%20Improvement.ipynb)
 
 
 #### Files that are used in this project
@@ -165,5 +165,5 @@ What suggestions do you have for next steps?
 * 7 Sev1.csv
 * 8 Sev1Telemetry.csv
 
-Contact and Further Information: pablo rivera 
+Contact and Further Information: pablo rivera
 
