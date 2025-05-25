@@ -165,5 +165,17 @@ What suggestions do you have for next steps?
 * 7 Sev1.csv
 * 8 Sev1Telemetry.csv
 
+
+##### Software version required
+IPython==9.2.0
+matplotlib==3.6.3
+numpy==1.24.0
+pandas==1.5.3
+plotly==5.3.0
+seaborn==0.11.2
+scikit-learn==1.2.2
+
+use pip install -r requirements.txt
+
 Contact and Further Information: pablo rivera
 
