@@ -10,7 +10,7 @@
 
 The world’s largest cloud providers continuously roll out new hardware and software technologies—ranging from the latest CPUs and GPUs to advanced networking, storage enhancements, and updated software versions—to compete on efficiency and security. These innovations are integrated into high-capacity servers known as nodes. Typically, 20 nodes are housed within a rack, and 20 racks make up a cluster. Clusters serve as the basic modular units that are deployed into data centers worldwide.
 
-![Nodes Rack Cluster in a Datacenter](NodeRackCluster.jpg)
+![Nodes Rack Cluster in a Datacenter](NodeRack.png)
 
 Despite rigorous pre-deployment testing, these cutting-edge nodes frequently experience operational issues. Critical failures are categorized as Severity 1 (Sev1) incidents—such as system crashes or unexpected reboots—while Severity 2 (Sev2) events indicate degraded performance or functionality. Second-by-second telemetry data on Sev1 and Sev2 events is collected from every node, in every rack, across every data center globally, providing a rich dataset for monitoring, analysis, and predictive modeling.
 
